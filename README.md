@@ -220,7 +220,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ## Online Less Compilers
 
-- [BeautifyTools Less Compiler](http://beautifytools.com/less-compiler.php) - Online Less compiler with optional formatting and minification at [BeautifyTools](http://beautifytools.com/).
+- [BeautifyTools Less Compiler](https://codeconvertertools.org/less-to-css) - Online Less compiler with optional formatting and minification at [BeautifyTools](https://codeconvertertools.org).
 - [EstFiddle](http://ecomfe.github.io/est/fiddle/) - Online Less compiler providing live demo for Less and est. Allowing users to switch among all versions of Less after 1.4.0 with optional est/Autoprefixer functionalities.
 - [ILess](http://demo-iless.rhcloud.com/) - Live demo of [ILess](https://github.com/mishal/iless) PHP compiler.
 - [Leafo](http://leafo.net/lessphp/editor.html) - [Lessphp](http://leafo.net/lessphp/) live demo.
